@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 e9c75a9ef44385758899f94e4f0c769921a3715a Ali rajabpour <ali95rmj95@gmail.com> 1709730301 +0330	commit (initial): initialising and reading picture
+e9c75a9ef44385758899f94e4f0c769921a3715a 129ee28a4d0ee6e319220fd187d618ddc9faa37d Ali rajabpour <ali95rmj95@gmail.com> 1709730334 +0330	commit: initialising and reading picture
+129ee28a4d0ee6e319220fd187d618ddc9faa37d 4fbc2b85717a86d13a8cbe69ef39bb1af466e983 Ali rajabpour <ali95rmj95@gmail.com> 1709730428 +0330	commit: read_pic added
+4fbc2b85717a86d13a8cbe69ef39bb1af466e983 464f62640e08ee3f5f735aeceff85703e251b23b Ali rajabpour <ali95rmj95@gmail.com> 1709730890 +0330	commit: renoising added
+464f62640e08ee3f5f735aeceff85703e251b23b 69711811c70ed5a9e955eecba20a9cdfe7ce2a3d Ali rajabpour <ali95rmj95@gmail.com> 1709733316 +0330	commit: sharpening added
+69711811c70ed5a9e955eecba20a9cdfe7ce2a3d 673bff2a6840525cbc91a435679a146348799f8b Ali rajabpour <ali95rmj95@gmail.com> 1709762922 +0330	commit: to be continiued
+673bff2a6840525cbc91a435679a146348799f8b a13e6a3ae5227dd96176bf58ed10832779f2a4cf Ali rajabpour <ali95rmj95@gmail.com> 1712249632 +0330	commit: denosing done
+a13e6a3ae5227dd96176bf58ed10832779f2a4cf 5691359db6a9a4acd76321b1b8107b18b0ed6fa0 Ali rajabpour <ali95rmj95@gmail.com> 1712353951 +0330	commit: remove background added.
+5691359db6a9a4acd76321b1b8107b18b0ed6fa0 fde45d7c088d70f66f9bf23c4b5ed4a1b702730b Ali rajabpour <ali95rmj95@gmail.com> 1712356518 +0330	commit: main added

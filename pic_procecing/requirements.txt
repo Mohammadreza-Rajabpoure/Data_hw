@@ -1,0 +1,6 @@
+numpy==1.26.4
+opencv-python==4.9.0.80
+PySide2==5.13.2 
+shiboken2==5.13.2
+rembg==2.0.56
+Python==3.11.0rc1
