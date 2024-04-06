@@ -15,4 +15,3 @@ def Delel_english(text):
             text =text.replace(letter , ' ')
     
     return text
-    
