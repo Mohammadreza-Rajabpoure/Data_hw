@@ -1,8 +1,8 @@
-from src.delet_english import Delel_english
-from src.file_reader import Read_file
-from src.normalize import Normalize
-from src.punctuation import Punctuation_delet
-from src.tokenizer import Tokenizer
+from nlpsrc.delet_english import Delel_english
+from nlpsrc.file_reader import Read_file
+from nlpsrc.normalize import Normalize
+from nlpsrc.punctuation import Punctuation_delet
+from nlpsrc.tokenizer import Tokenizer
 import hazm
 def main():
 
